@@ -1,2 +1,6 @@
 print("Hello")
+<<<<<<< HEAD
 print("Hello nov")
+=======
+print("Vetka")
+>>>>>>> new-api
